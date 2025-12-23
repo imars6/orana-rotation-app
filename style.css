@@ -1,0 +1,35 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 16px;
+  background: #f6f6f6;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+input, select, button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 6px 0;
+  width: 100%;
+}
+
+button {
+  background: #2f6f4e;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+#results .zone {
+  background: white;
+  padding: 12px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+}
+
+.zone h3 {
+  margin: 0 0 6px 0;
+}
